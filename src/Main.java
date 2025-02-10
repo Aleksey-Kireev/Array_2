@@ -1,0 +1,16 @@
+public class Main {
+    public static void main(String[] args) {
+
+//        ----- =====   Задание № 1   ===== -----
+
+        System.out.println();
+        System.out.println("----- =====   Задание № 1   ===== -----");
+
+
+
+
+
+
+        System.out.println("Hello, World!");
+    }
+}
