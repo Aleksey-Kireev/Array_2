@@ -8,7 +8,7 @@ public class Main {
         System.out.println("\n ----- =====   Задание № 1   ===== -----");
         int[] cost = {3400, 12600, 1450, 3670, 9821};
         int summ = 0;
-        for (int i = 0; i < cost.length - 1; i++) {
+        for (int i = 0; i < cost.length; i++) {
             summ += cost[i];
         }
         System.out.println("Сумма трат за месяц составила " + summ + " рублей.");
